@@ -99,6 +99,12 @@
 .projects {
     background-color: #000016;
 }
+.btn-projects{
+    width: 100%;
+}
+.card:hover .card-img-top {
+    opacity: .9;
+}
 
 .footer {
     background-color: #000016;
